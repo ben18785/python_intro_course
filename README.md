@@ -1,3 +1,6 @@
+# Ben notes to self
+Work on the `gh-pages` branch, then all materials will automatically be published to [here](https://ben18785.github.io/python_intro_course/).
+
 # FIXME Lesson title
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
